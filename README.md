@@ -49,9 +49,9 @@ Step by step, I'm building my confidence and my stack."
 
 ## 📊 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV1767&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV1767&layout=compact&theme=radical)
 
 👉 Replace `YOUR_USERNAME` with your actual GitHub username.
 
