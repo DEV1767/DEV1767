@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Shivam
 
-🎓 First-year BE student (AI & ML) at **JNNCE Shivamogga**  
+🎓Second Year BE student (AI & ML) at **JNNCE Shivamogga**  
 💻 Frontend + Backend Learner | Future Full-Stack Developer  
 🚀 Exploring Node.js, Express, MongoDB & AI tools  
 
