@@ -53,7 +53,7 @@ Step by step, I'm building my confidence and my stack."
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV1767&layout=compact&theme=radical)
 
-👉 Replace `YOUR_USERNAME` with your actual GitHub username.
+
 
 ---
 
