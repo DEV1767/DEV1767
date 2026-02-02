@@ -1,7 +1,6 @@
-
 # Hi 👋, I'm Shivam
 
-🎓Second Year BE student (AI & ML) at **JNNCE Shivamogga**  
+🎓 Second Year BE student (AI & ML) at **JNNCE Shivamogga**  
 💻 Frontend + Backend Learner | Future Full-Stack Developer  
 🚀 Exploring Node.js, Express, MongoDB & AI tools  
 
@@ -42,8 +41,16 @@ I enjoy building websites, APIs, and experimenting with new technologies.
 
 ## 📌 My Learning Journey
 
-> "Backend was scary for me at first, but now it's exciting.  
-Step by step, I'm building my confidence and my stack."
+> *"Backend was scary for me at first, but now it's exciting.  
+> Step by step, I'm building my confidence and my stack."*
+
+---
+
+## 🎮 GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter Animation" />
+</p>
 
 ---
 
@@ -53,14 +60,12 @@ Step by step, I'm building my confidence and my stack."
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV1767&layout=compact&theme=radical)
 
-
-
 ---
 
 ## 🤝 Let's Connect
 
-- LinkedIn:https://www.linkedin.com/in/shivam076/
-- Email:p622133@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivam076/
+- 📧 Email: p622133@gmail.com
 
 ---
 
