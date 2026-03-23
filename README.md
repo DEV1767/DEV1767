@@ -15,7 +15,7 @@ I'm a **second-year AI & ML engineering student** who fell in love with building
 
 I'm not just learning to code — I'm learning to **build real systems** that solve real problems.
 
-- 🔭 Currently building: **URL Shortener API, Auth Systems, Backend Projects**
+- 🔭 Currently building: **Collge Event management system, Auth Systems, Backend Projects**
 - 🌱 Actively learning: **Node.js · Express.js · MongoDB · REST API Design**
 - 🤖 Exploring: **AI/ML concepts, LLMs, Automation Tools**
 - 🎯 End goal: **Full-Stack Engineer with deep AI expertise**
@@ -53,7 +53,7 @@ I'm not just learning to code — I'm learning to **build real systems** that so
 ## 🚀 What I'm Building
 
 ```
-🔗 URL Shortener API     → Node.js + Express + MongoDB + JWT Auth
+🔗 Collge Event management system     → Node.js + Express + MongoDB + JWT Auth
 🔐 Auth System           → Register · Login · Protected Routes · JWT
 📡 REST APIs             → MVC Architecture · Mongoose · bcrypt
 🤖 AI Experiments        → Exploring LLMs, Automation & AI Tools
