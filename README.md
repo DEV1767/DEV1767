@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 2nd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds backend systems that actually ship — not just tutorials. I design REST APIs, authentication flows, and scalable server architectures with **Node.js, Express, and MongoDB**, and I'm now blending that with **Generative AI** — LangChain workflows, RAG pipelines, LLMs, and voice-detection models.
+I'm a 3rd year **AI & ML engineering student** at JNNCE, Shivamogga, who builds backend systems that actually ship — not just tutorials. I design REST APIs, authentication flows, and scalable server architectures with **Node.js, Express, and MongoDB**, and I'm now blending that with **Generative AI** — LangChain workflows, RAG pipelines, LLMs, and voice-detection models.
 
 - 💼 Freelance web developer — built and maintain a full-stack **skincare e-commerce site** for **Indalnova**, including dynamic product & order management
 - 🔭 Currently building **EventHub**, a role-based college event management platform designed for 1000+ concurrent users
