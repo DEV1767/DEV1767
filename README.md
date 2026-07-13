@@ -15,12 +15,12 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 2nd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds backend systems that actually ship — not just tutorials. I design REST APIs, authentication flows, and scalable server architectures with **Node.js, Express, and MongoDB**, and I'm now blending that with **Generative AI** — RAG pipelines, LLMs, and voice-detection models.
+I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds backend systems that actually ship — not just tutorials. I design REST APIs, authentication flows, and scalable server architectures with **Node.js, Express, and MongoDB**, and I'm now blending that with **Generative AI** — RAG pipelines, LLMs, and voice-detection models.
 
 - 💼 Freelance web developer at **Indalnova** — built and maintain their production website
 - 🔭 Currently building **EventHub**, a role-based college event management platform (1000+ user scale)
+- 🧠 Built **Customer Support AI** — a production-style RAG pipeline that indexes company PDFs (product catalogs, manuals, policies, SOPs) into Qdrant, retrieves        context using MMR search, and answers support queries with Gemini 2.5 Flash, strictly grounded in the retrieved knowledge base
 - 🏆 Built **VeriVox AI** at Hack Fest 1.0 — an AI system that detects real vs. AI-generated voices using PyTorch, Whisper & Gemini AI, in 24 hours
-- 🧠 Built **Customer Support AI** — a production-style RAG pipeline that indexes company PDFs (product catalogs, manuals, policies, SOPs) into Qdrant, retrieves context using MMR search, and answers support queries with Gemini 2.5 Flash, strictly grounded in the retrieved knowledge base
 - 🎯 Selected for **Smart India Hackathon** (Internal Round) and competed at **IGNITRON 2K25**
 - 🌱 Currently deepening: REST API design, RAG systems, and LLM-powered automation
 - ⚡ Fun fact: started scared of backend, now I architect it
@@ -57,13 +57,14 @@ I'm a 2nd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎟️ **[EventHub](https://github.com/DEV1767)** | Scalable college event management backend with role-based access control, built for 1000+ users | Node.js · Express · MongoDB · JWT · Joi |
-| 🔐 **[Authorization-Backend](https://github.com/DEV1767)** | Secure auth backend — register, login, password reset, protected routes | Node.js · Express · MongoDB · JWT |
-| 🔗 **[Urlshortner_backend](https://github.com/DEV1767)** | URL shortener with user auth, JWT, and redirect tracking | Node.js · Express · MongoDB |
-| 📡 **[BackendEduproof](https://github.com/DEV1767)** | MVC-structured REST API with custom middleware, deployed on Vercel | Node.js · Express · MongoDB |
-| 🤖 **[RAG-Pipeline-](https://github.com/DEV1767)** | Lightweight local RAG demo for chat and retrieval experiments | Python |
-| 💬 **[Customer Support AI](https://github.com/DEV1767)** | Production-style RAG chatbot for TechNova — ingests company PDFs (catalogs, manuals, policies, SOPs) into a Qdrant vector store, retrieves context with MMR (k=5, fetch_k=20) for diverse results, and generates grounded answers with Gemini 2.5 Flash | Python · LangChain · Qdrant · Gemini 2.5 Flash · HuggingFace (BAAI/bge-small-en-v1.5) |
+| 🎟️ **[EventHub](https://github.com/DEV1767/eduhub-backend)** | Scalable college event management backend with role-based access control, built for 1000+ users | Node.js · Express · MongoDB · JWT · Joi |
+| 💬 **[Customer Support AI](https://github.com/DEV1767/Customer_Support_RAG_Project)** | Production-style RAG chatbot for TechNova — ingests company PDFs (catalogs, manuals, policies, SOPs) into a Qdrant vector store, retrieves context with MMR (k=5, fetch_k=20) for diverse results, and generates grounded answers with Gemini 2.5 Flash | Python · LangChain · Qdrant · Gemini 2.5 Flash · HuggingFace (BAAI/bge-small-en-v1.5) |
+| 🤖 **[RAG-Pipeline-](https://github.com/DEV1767/RAG-Pipeline-)** | Lightweight local RAG demo for chat and retrieval experiments | Python |
 | 🎙️ **VeriVox AI** | Detects real vs. AI-generated voices — built in a 24-hour hackathon | PyTorch · Whisper · Gemini AI |
+| 🔗 **[Urlshortner_backend](https://github.com/DEV1767/Urlshortner_backend)** | URL shortener with user auth, JWT, and redirect tracking | Node.js · Express · MongoDB |
+| 🔐 **[Authorization-Backend](https://github.com/DEV1767/Authorization-Backend)** | Secure auth backend — register, login, password reset, protected routes | Node.js · Express · MongoDB · JWT |
+| 📡 **[BackendEduproof](https://github.com/DEV1767/BackendEduproof)** | MVC-structured REST API with custom middleware, deployed on Vercel | Node.js · Express · MongoDB |
+
 
 ---
 
