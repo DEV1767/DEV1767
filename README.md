@@ -20,7 +20,7 @@ I'm a 2nd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
 - 💼 Freelance web developer at **Indalnova** — built and maintain their production website
 - 🔭 Currently building **EventHub**, a role-based college event management platform (1000+ user scale)
 - 🏆 Built **VeriVox AI** at Hack Fest 1.0 — an AI system that detects real vs. AI-generated voices using PyTorch, Whisper & Gemini AI, in 24 hours
-- 🧠 Built **Customer Support AI** — a full RAG pipeline that indexes company PDFs into Qdrant and answers support queries using Gemini, grounded strictly in retrieved context
+- 🧠 Built **Customer Support AI** — a production-style RAG pipeline that indexes company PDFs (product catalogs, manuals, policies, SOPs) into Qdrant, retrieves context using MMR search, and answers support queries with Gemini 2.5 Flash, strictly grounded in the retrieved knowledge base
 - 🎯 Selected for **Smart India Hackathon** (Internal Round) and competed at **IGNITRON 2K25**
 - 🌱 Currently deepening: REST API design, RAG systems, and LLM-powered automation
 - ⚡ Fun fact: started scared of backend, now I architect it
@@ -62,7 +62,7 @@ I'm a 2nd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
 | 🔗 **[Urlshortner_backend](https://github.com/DEV1767)** | URL shortener with user auth, JWT, and redirect tracking | Node.js · Express · MongoDB |
 | 📡 **[BackendEduproof](https://github.com/DEV1767)** | MVC-structured REST API with custom middleware, deployed on Vercel | Node.js · Express · MongoDB |
 | 🤖 **[RAG-Pipeline-](https://github.com/DEV1767)** | Lightweight local RAG demo for chat and retrieval experiments | Python |
-| 💬 **[Customer Support AI](https://github.com/DEV1767)** | Production-style RAG chatbot — indexes company PDFs into Qdrant with MMR retrieval and answers queries via Gemini, strictly grounded in retrieved context | Python · LangChain · Qdrant · Gemini · HuggingFace Embeddings |
+| 💬 **[Customer Support AI](https://github.com/DEV1767)** | Production-style RAG chatbot for TechNova — ingests company PDFs (catalogs, manuals, policies, SOPs) into a Qdrant vector store, retrieves context with MMR (k=5, fetch_k=20) for diverse results, and generates grounded answers with Gemini 2.5 Flash | Python · LangChain · Qdrant · Gemini 2.5 Flash · HuggingFace (BAAI/bge-small-en-v1.5) |
 | 🎙️ **VeriVox AI** | Detects real vs. AI-generated voices — built in a 24-hour hackathon | PyTorch · Whisper · Gemini AI |
 
 ---
