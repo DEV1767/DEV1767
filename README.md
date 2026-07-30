@@ -40,6 +40,7 @@ I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
