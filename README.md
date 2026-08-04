@@ -54,6 +54,22 @@ I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
 
 ---
 
+### 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph_Agents-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Advanced_RAG-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_DB_Optimization-DC244C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge"/>
+</p>
+
+- 🔗 Building multi-agent workflows with **LangGraph**
+- 📈 Exploring advanced RAG techniques — hybrid search, re-ranking, and query rewriting
+- ⚙️ Digging deeper into **system design** for scaling backend services beyond 1000+ users
+- 🧩 Learning **vector database optimization** (indexing strategies, hybrid retrieval) with Qdrant
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
