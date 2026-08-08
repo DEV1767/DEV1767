@@ -2,7 +2,7 @@
 <h3 align="center">Backend & Generative AI Developer | AI & ML Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+scalable+backends+with+Node.js+%26+Express.js;Designing+secure+auth+systems+with+JWT;Exploring+RAG+%2C+LLMs+%26+Generative+AI;Turning+ideas+into+production-ready+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+scalable+backends+with+Node.js+%26+MongoDB;Designing+secure+auth+systems+with+JWT;Exploring+RAG+%2C+LLMs+%26+Generative+AI;Turning+ideas+into+production-ready+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
