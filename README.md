@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shivam Chaudhary 👋</h1>
-<h3 align="center">Backend & Generative AI Developer | AI & ML Engineering Student</h3>
+<h3 align="center">Generative AI, AI Agents, Agentic AI & Backend Developer | AI & ML Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+scalable+backends+with+Node.js+%26+MongoDB;Designing+secure+auth+systems+with+JWT;Exploring+RAG+%2C+LLMs+%26+Generative+AI;Turning+ideas+into+production-ready+APIs" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds backend systems that actually ship — not just tutorials. I design REST APIs, authentication flows, and scalable server architectures with **Node.js, Express, and MongoDB**, and I'm now blending that with **Generative AI** — RAG pipelines, LLMs, and voice-detection models.
+I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds backend systems that actually ship — not just tutorials. I design REST APIs, authentication flows, and scalable server architectures with **Node.js, Express, and MongoDB**, and I'm now blending that with **Generative AI** — RAG pipelines, AI Agents and Agentic AI.
 
 - 💼 Freelance web developer at **Indalnova** — built and maintain their production website
 - 🔭 Currently building **EventHub**, a role-based college event management platform (1000+ user scale)
@@ -114,4 +114,4 @@ I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
   <img src="https://komarev.com/ghpvc/?username=DEV1767&label=Profile+Views&color=00F7FF&style=flat-square" />
 </p>
 
-<p align="center"><i>⭐ Open to backend, full-stack, and Generative AI collaborations!</i></p>
+<p align="center"><i>⭐ Open to backend, full-stack, and  AI collaborations!</i></p>
