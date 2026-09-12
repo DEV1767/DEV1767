@@ -19,7 +19,7 @@ I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
 
 - 💼 Freelance web developer at **Indalnova** — built and maintain their production website
 - 🔭 Currently building **EventHub**, a role-based college event management platform (1000+ user scale)
-- 🧠 Built **Customer Support AI** — a production-style RAG pipeline that indexes company PDFs (product catalogs, manuals, policies, SOPs) into Qdrant, retrieves        context using MMR search, and answers support queries with Gemini 2.5 Flash, strictly grounded in the retrieved knowledge base
+- 🧠 Built **Customer Support AI** — a production-style RAG pipeline that indexes company PDFs (product catalogs, manuals, policies, SOPs) into Qdrant, retrieves context using MMR search, and answers support queries with Gemini 2.5 Flash, strictly grounded in the retrieved knowledge base
 - 🏆 Built **VeriVox AI** at Hack Fest 1.0 — an AI system that detects real vs. AI-generated voices using PyTorch, Whisper & Gemini AI, in 24 hours
 - 🎯 Selected for **Smart India Hackathon** (Internal Round) and competed at **IGNITRON 2K25**
 - 🌱 Currently deepening: REST API design, RAG systems, and LLM-powered automation
@@ -82,7 +82,6 @@ I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
 | 🔐 **[Authorization-Backend](https://github.com/DEV1767/Authorization-Backend)** | Secure auth backend — register, login, password reset, protected routes | Node.js · Express · MongoDB · JWT |
 | 📡 **[BackendEduproof](https://github.com/DEV1767/BackendEduproof)** | MVC-structured REST API with custom middleware, deployed on Vercel | Node.js · Express · MongoDB |
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -114,4 +113,4 @@ I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
   <img src="https://komarev.com/ghpvc/?username=DEV1767&label=Profile+Views&color=00F7FF&style=flat-square" />
 </p>
 
-<p align="center"><i>⭐ Open to backend, full-stack, and  AI collaborations!</i></p>
+<p align="center"><i>⭐ Open to backend, full-stack, and AI collaborations!</i></p>
