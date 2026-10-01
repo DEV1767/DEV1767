@@ -70,18 +70,33 @@ I'm a 3rd-year **AI & ML engineering student** at JNNCE, Shivamogga, who builds 
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎟️ **[EventHub](https://github.com/DEV1767/eduhub-backend)** | Scalable college event management backend with role-based access control, built for 1000+ users | Node.js · Express · MongoDB · JWT · Joi |
-| 💬 **[Customer Support AI](https://github.com/DEV1767/Customer_Support_RAG_Project)** | Production-style RAG chatbot for TechNova — ingests company PDFs (catalogs, manuals, policies, SOPs) into a Qdrant vector store, retrieves context with MMR (k=5, fetch_k=20) for diverse results, and generates grounded answers with Gemini 2.5 Flash | Python · LangChain · Qdrant · Gemini 2.5 Flash · HuggingFace (BAAI/bge-small-en-v1.5) |
-| 🤖 **[RAG-Pipeline-](https://github.com/DEV1767/RAG-Pipeline-)** | Lightweight local RAG demo for chat and retrieval experiments | Python |
-| 🎙️ **VeriVox AI** | Detects real vs. AI-generated voices — built in a 24-hour hackathon | PyTorch · Whisper · Gemini AI |
-| 🔗 **[Urlshortner_backend](https://github.com/DEV1767/Urlshortner_backend)** | URL shortener with user auth, JWT, and redirect tracking | Node.js · Express · MongoDB |
-| 🔐 **[Authorization-Backend](https://github.com/DEV1767/Authorization-Backend)** | Secure auth backend — register, login, password reset, protected routes | Node.js · Express · MongoDB · JWT |
-| 📡 **[BackendEduproof](https://github.com/DEV1767/BackendEduproof)** | MVC-structured REST API with custom middleware, deployed on Vercel | Node.js · Express · MongoDB |
+### 🤖 [Git RAG — Agentic GitHub Repository Assistant](https://github.com/DEV1767)
+Agentic RAG system for understanding and querying GitHub repositories using repository ingestion, code chunking, hybrid retrieval, reranking, and MCP-based tool execution.
 
+**Tech:** Python · LangGraph · LangChain · MCP · Qdrant · FastAPI · Groq · RAG
+
+---
+
+### 🧠 AI Commander — VS Code AI Agent
+AI-powered VS Code agent that captures terminal errors and uses an agentic workflow to generate context-aware debugging guidance directly within the developer workflow.
+
+**Tech:** TypeScript · VS Code Extension API · Node.js · Express · FastAPI · LangGraph · MongoDB · LLM APIs
+
+---
+
+### 🎟️ [EventHub — College Event Management Platform](https://github.com/DEV1767/eduhub-backend)
+Production-ready college event management backend with role-based access control, JWT authentication, validated REST APIs, Redis caching, and support for 1,000+ concurrent users.
+
+**Tech:** Node.js · Express · MongoDB · Mongoose · Redis · JWT · Joi
+
+---
+
+### 🔗 [URL Shortener Backend](https://github.com/DEV1767/Urlshortner_backend)
+Backend service for creating shortened URLs with user authentication, JWT-based authorization, MongoDB persistence, and automatic redirection to original URLs.
+
+**Tech:** Node.js · Express · MongoDB · JWT
 ---
 
 ### 📊 GitHub Stats
