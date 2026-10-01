@@ -52,21 +52,13 @@ I'm a 3rd-year **AI & ML Engineering** student who builds backend systems that a
 - **Hybrid retrieval** with **reranking** for more accurate context
 - **MCP-based tool execution** orchestrated through LangGraph agents
 
-```mermaid
-flowchart LR
-    A[GitHub Repo] --> B[Ingest & Chunk]
-    B --> C[(Qdrant)]
-    C --> D[Hybrid Retrieval + Rerank]
-    D --> E[LangGraph Agent]
-    E <--> F[MCP Tools]
-    E --> G[Answer]
-```
 
 **Stack:** `Python` `LangGraph` `LangChain` `MCP` `Qdrant` `FastAPI` `Groq`
 
 ---
 
-#### AI Commander — VS Code AI Agent
+#### [AI Commander — VS Code AI Agent(https://github.com/DEV1767/Ai-Commander)
+
 > Debugging help that lives inside your editor.
 
 - Captures **terminal errors** directly from the developer workflow
