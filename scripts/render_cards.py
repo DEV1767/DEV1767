@@ -281,7 +281,7 @@ def activity():
 # ---------- 4. tiles ----------
 TILES = [
     ("Freelance", 1, "live production site", ["Web developer at Indalnova", "Maintains their production site"], BLUE, "#fff"),
-    ("Hackathons", 7+, "events entered", ["VeriVox AI, Hack Fest 1.0", "Smart India Hackathon (Internal)", "IGNITRON 2K25"], RED, "#fff"),
+    ("Hackathons", 7, "events entered", ["VeriVox AI, Hack Fest 1.0", "Smart India Hackathon (Internal)", "IGNITRON 2K25"], RED, "#fff"),
     ("Learning", 4, "topics in progress", ["LangGraph multi-agent flows", "Advanced RAG", "Vector DB optimization", "System design"], YELLOW, INK),
 ]
 
