@@ -19,7 +19,7 @@ I'm a 3rd-year **AI & ML Engineering** student who builds backend systems that a
 </p>
 
 <p align="center">
-  <img src="./cards/stack.svg" width="100%" alt="Tech stack: Node.js, Express, FastAPI, JWT, MongoDB, Redis, Qdrant, Supabase, PyTorch, LangChain, LangGraph, Gemini, Groq, JavaScript, TypeScript, Python, C, Git, GitHub, VS Code, Postman" />
+  <img src="./cards/stack.svg" width="100%" alt="Tech stack: Node.js, Express, FastAPI, JWT, MongoDB, Redis, Qdrant, LangChain, LangGraph, Gemini, Groq, JavaScript, Python, C, Git, GitHub, VS Code, Postman" />
 </p>
 
 <p align="center">
